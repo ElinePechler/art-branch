@@ -12,6 +12,9 @@ function setup () {
     textAlign(CENTER, CENTER)
     text("dit is het midden",100,100
     )
+    
+    fill (100,100,100)
+    ellipse(100,100,100,100)
 
 }
 
